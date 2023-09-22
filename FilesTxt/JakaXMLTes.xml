@@ -1,0 +1,268 @@
+﻿<root>
+    <nodes>
+        <node>
+            <code>001</code>
+            <description>CASH</description>
+            <is_active>1</is_active>
+            <cre_date>8/7/2019 10:01:34 AM</cre_date>
+            <cre_by>INJECT</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>12/17/2020 3:08:50 PM</mod_date>
+            <mod_by>Admin</mod_by>
+            <mod_ip_address>192.168.1.80</mod_ip_address>
+        </node>
+        <node>
+            <code>002</code>
+            <description>BANK BRI</description>
+            <is_active>1</is_active>
+            <cre_date>8/7/2019 10:01:34 AM</cre_date>
+            <cre_by>INJECT</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>1/13/2020 4:26:53 PM</mod_date>
+            <mod_by>Admin</mod_by>
+            <mod_ip_address>127.0.0.1</mod_ip_address>
+        </node>
+        <node>
+            <code>003</code>
+            <description>BANK EKSPOR INDONESIA</description>
+            <is_active>1</is_active>
+            <cre_date>8/7/2019 10:01:34 AM</cre_date>
+            <cre_by>INJECT</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>8/7/2019 10:01:34 AM</mod_date>
+            <mod_by>INJECT</mod_by>
+            <mod_ip_address>127.0.0.1</mod_ip_address>
+        </node>
+        <node>
+            <code>008</code>
+            <description>BANK MANDIRI </description>
+            <is_active>1</is_active>
+            <cre_date>8/7/2019 10:01:34 AM</cre_date>
+            <cre_by>INJECT</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>9/7/2020 5:12:18 PM</mod_date>
+            <mod_by>Admin</mod_by>
+            <mod_ip_address>192.168.1.80</mod_ip_address>
+        </node>
+        <node>
+            <code>009</code>
+            <description>BANK BNI</description>
+            <is_active>1</is_active>
+            <cre_date>8/7/2019 10:01:34 AM</cre_date>
+            <cre_by>INJECT</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>8/7/2019 10:01:34 AM</mod_date>
+            <mod_by>INJECT</mod_by>
+            <mod_ip_address>127.0.0.1</mod_ip_address>
+        </node>
+        <node>
+            <code>011</code>
+            <description>BANK DANAMON</description>
+            <is_active>1</is_active>
+            <cre_date>8/7/2019 10:01:34 AM</cre_date>
+            <cre_by>INJECT</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>8/7/2019 10:01:34 AM</mod_date>
+            <mod_by>INJECT</mod_by>
+            <mod_ip_address>127.0.0.1</mod_ip_address>
+        </node>
+        <node>
+            <code>013</code>
+            <description>PERMATA BANK</description>
+            <is_active>1</is_active>
+            <cre_date>8/7/2019 10:01:34 AM</cre_date>
+            <cre_by>INJECT</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>8/7/2019 10:01:34 AM</mod_date>
+            <mod_by>INJECT</mod_by>
+            <mod_ip_address>127.0.0.1</mod_ip_address>
+        </node>
+        <node>
+            <code>014</code>
+            <description>BANK BCA</description>
+            <is_active>1</is_active>
+            <cre_date>8/7/2019 10:01:34 AM</cre_date>
+            <cre_by>INJECT</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>8/7/2019 10:01:34 AM</mod_date>
+            <mod_by>INJECT</mod_by>
+            <mod_ip_address>127.0.0.1</mod_ip_address>
+        </node>
+        <node>
+            <code>014s</code>
+            <description>BCA SYARIAH</description>
+            <is_active>0</is_active>
+            <cre_date>7/6/2020 4:17:12 PM</cre_date>
+            <cre_by>Admin</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>7/6/2020 4:17:39 PM</mod_date>
+            <mod_by>Admin</mod_by>
+            <mod_ip_address>127.0.0.1</mod_ip_address>
+        </node>
+        <node>
+            <code>016</code>
+            <description>BANK BII MAYBANK</description>
+            <is_active>1</is_active>
+            <cre_date>8/7/2019 10:01:34 AM</cre_date>
+            <cre_by>INJECT</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>7/10/2020 3:06:25 PM</mod_date>
+            <mod_by>Admin</mod_by>
+            <mod_ip_address>127.0.0.1</mod_ip_address>
+        </node>
+        <node>
+            <code>019</code>
+            <description>BANK PANIN</description>
+            <is_active>1</is_active>
+            <cre_date>8/7/2019 10:01:34 AM</cre_date>
+            <cre_by>INJECT</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>8/7/2019 10:01:34 AM</mod_date>
+            <mod_by>INJECT</mod_by>
+            <mod_ip_address>127.0.0.1</mod_ip_address>
+        </node>
+        <node>
+            <code>020</code>
+            <description>BANK ARTA NIAGA KENCANA</description>
+            <is_active>1</is_active>
+            <cre_date>8/7/2019 10:01:34 AM</cre_date>
+            <cre_by>INJECT</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>8/7/2019 10:01:34 AM</mod_date>
+            <mod_by>INJECT</mod_by>
+            <mod_ip_address>127.0.0.1</mod_ip_address>
+        </node>
+        <node>
+            <code>022</code>
+            <description>BANK CIMB NIAGA</description>
+            <is_active>1</is_active>
+            <cre_date>8/7/2019 10:01:34 AM</cre_date>
+            <cre_by>INJECT</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>8/7/2019 10:01:34 AM</mod_date>
+            <mod_by>INJECT</mod_by>
+            <mod_ip_address>127.0.0.1</mod_ip_address>
+        </node>
+        <node>
+            <code>026</code>
+            <description>BANK LIPPO</description>
+            <is_active>1</is_active>
+            <cre_date>8/7/2019 10:01:34 AM</cre_date>
+            <cre_by>INJECT</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>8/7/2019 10:01:34 AM</mod_date>
+            <mod_by>INJECT</mod_by>
+            <mod_ip_address>127.0.0.1</mod_ip_address>
+        </node>
+        <node>
+            <code>028</code>
+            <description>BANK OCBC NISP</description>
+            <is_active>1</is_active>
+            <cre_date>8/7/2019 10:01:34 AM</cre_date>
+            <cre_by>INJECT</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>8/7/2019 10:01:34 AM</mod_date>
+            <mod_by>INJECT</mod_by>
+            <mod_ip_address>127.0.0.1</mod_ip_address>
+        </node>
+        <node>
+            <code>031</code>
+            <description>CITIBANK</description>
+            <is_active>1</is_active>
+            <cre_date>8/7/2019 10:01:34 AM</cre_date>
+            <cre_by>INJECT</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>8/7/2019 10:01:34 AM</mod_date>
+            <mod_by>INJECT</mod_by>
+            <mod_ip_address>127.0.0.1</mod_ip_address>
+        </node>
+        <node>
+            <code>032</code>
+            <description>BANK JABAR</description>
+            <is_active>0</is_active>
+            <cre_date>7/2/2020 4:18:12 PM</cre_date>
+            <cre_by>Admin</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>7/2/2020 4:18:12 PM</mod_date>
+            <mod_by>Admin</mod_by>
+            <mod_ip_address>127.0.0.1</mod_ip_address>
+        </node>
+        <node>
+            <code>10201</code>
+            <description>BANK BENGKULU</description>
+            <is_active>0</is_active>
+            <cre_date>7/13/2020 10:24:35 AM</cre_date>
+            <cre_by>Admin</cre_by>
+            <cre_ip_address>192.168.1.80</cre_ip_address>
+            <mod_date>7/13/2020 10:26:35 AM</mod_date>
+            <mod_by>Admin</mod_by>
+            <mod_ip_address>192.168.1.80</mod_ip_address>
+        </node>
+        <node>
+            <code>ARGOB</code>
+            <description>BANK ARGO</description>
+            <is_active>0</is_active>
+            <cre_date>7/8/2020 1:55:03 PM</cre_date>
+            <cre_by>Admin</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>7/8/2020 1:55:44 PM</mod_date>
+            <mod_by>Admin</mod_by>
+            <mod_ip_address>127.0.0.1</mod_ip_address>
+        </node>
+        <node>
+            <code>DKI-1</code>
+            <description>BANK JAKARTA</description>
+            <is_active>0</is_active>
+            <cre_date>7/17/2020 7:29:06 AM</cre_date>
+            <cre_by>Admin</cre_by>
+            <cre_ip_address>192.168.1.80</cre_ip_address>
+            <mod_date>7/17/2020 7:58:56 AM</mod_date>
+            <mod_by>Admin</mod_by>
+            <mod_ip_address>192.168.1.80</mod_ip_address>
+        </node>
+        <node>
+            <code>JKS</code>
+            <description>BANK JAKARTA</description>
+            <is_active>0</is_active>
+            <cre_date>7/7/2020 9:27:38 AM</cre_date>
+            <cre_by>Admin</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>7/7/2020 9:27:38 AM</mod_date>
+            <mod_by>Admin</mod_by>
+            <mod_ip_address>127.0.0.1</mod_ip_address>
+        </node>
+        <node>
+            <code>KAS</code>
+            <description>KAS BESAR</description>
+            <is_active>1</is_active>
+            <cre_date>12/17/2020 3:22:48 PM</cre_date>
+            <cre_by>Admin</cre_by>
+            <cre_ip_address>192.168.1.80</cre_ip_address>
+            <mod_date>12/17/2020 3:22:48 PM</mod_date>
+            <mod_by>Admin</mod_by>
+            <mod_ip_address>192.168.1.80</mod_ip_address>
+        </node>
+        <node>
+            <code>TES</code>
+            <description>ADASD</description>
+            <is_active>1</is_active>
+            <cre_date>7/15/2020 6:11:14 PM</cre_date>
+            <cre_by>Admin</cre_by>
+            <cre_ip_address>192.168.1.80</cre_ip_address>
+            <mod_date>7/15/2020 6:11:14 PM</mod_date>
+            <mod_by>Admin</mod_by>
+            <mod_ip_address>192.168.1.80</mod_ip_address>
+        </node>
+        <node>
+            <code>TEST</code>
+            <description>TEST</description>
+            <is_active>1</is_active>
+            <cre_date>7/30/2020 4:16:48 PM</cre_date>
+            <cre_by>Admin</cre_by>
+            <cre_ip_address>127.0.0.1</cre_ip_address>
+            <mod_date>7/30/2020 4:16:48 PM</mod_date>
+            <mod_by>Admin</mod_by>
+            <mod_ip_address>127.0.0.1</mod_ip_address>
+        </node>
+    </nodes>
+</root>
