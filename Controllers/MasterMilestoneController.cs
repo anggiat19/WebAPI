@@ -1,25 +1,25 @@
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
-using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+using Newtonsoft.Json;
 using System.Threading.Tasks;
 using TrainingAPI.App_Code;
-using Microsoft.AspNetCore.Authorization;
 
 namespace TrainingAPI.Controllers
 {
     [Authorize]
     [Route("api/[controller]")]
     [ApiController]
-    public class BudgetItemController : iFinancingController
+    public class MasterMilestoneController : iFinancingController
     {
-        public BudgetItemController(IConfiguration configuration, IWebHostEnvironment hostingEnvironment) : base(configuration, hostingEnvironment)
+        public MasterMilestoneController(IConfiguration configuration, IWebHostEnvironment hostingEnvironment) : base(configuration, hostingEnvironment)
         {
 
         }
 
-        private string _tableName = "BUDGET_ITEM";
+        private string _tableName = "MASTER_MILESTONE";
         private string _spName = "";
 
         [HttpPost]
