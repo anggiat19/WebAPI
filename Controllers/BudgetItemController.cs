@@ -31,7 +31,7 @@ namespace TrainingAPI.Controllers
                 var Jsondata = JsonConvert.SerializeObject(data);
                 JObject JsonObject = JObject.Parse(Jsondata);
 
-                return Ok(base.GetRows(JsonObject, _tableName));
+                return Ok(base.ss(JsonObject, _tableName));
             });
         }
 
