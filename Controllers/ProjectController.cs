@@ -12,9 +12,9 @@ namespace TrainingAPI.Controllers
     [Authorize]
     [Route("api/[controller]")]
     [ApiController]
-    public class DStudentController : iFinancingController
+    public class ProjectController : iFinancingController
     {
-        public DStudentController(IConfiguration configuration, IWebHostEnvironment hostingEnvironment) : base(configuration, hostingEnvironment)
+        public ProjectController(IConfiguration configuration, IWebHostEnvironment hostingEnvironment) : base(configuration, hostingEnvironment)
         {
 
         }
